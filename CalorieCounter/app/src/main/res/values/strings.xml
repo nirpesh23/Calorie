@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calorie Counter</string>
+    <string name="button">Exit</string>
+</resources>
